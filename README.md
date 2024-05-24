@@ -24,11 +24,11 @@ To run this application, you need a web browser.
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/da-ros/ToDoApp.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd simple-todo-app
+    cd ToDoApp
     ```
 
 ### Running the App
